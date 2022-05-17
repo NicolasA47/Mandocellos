@@ -1,3 +1,1 @@
 # Team Mandocello's Page
-
-- 
