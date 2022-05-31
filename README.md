@@ -11,4 +11,4 @@
 > ## Project Documentation
 > - [Observe & Frame](https://github.com/NicolasA47/Mandocellos/tree/main/Project%20Documentation/1-Observe%20%26%20Frame) 
 > - [Brainstorming & Divergence](https://github.com/NicolasA47/Mandocellos/tree/main/Project%20Documentation/2-Brainstorming%20%26%20Divergence)
-> - [Brainstorming & Convergence](https://github.com/NicolasA47/Mandocellos/tree/main/Project%20Documentation/2-Brainstorming%20%26%20Convergence)
+> - [Brainstorming & Convergence](https://github.com/NicolasA47/Mandocellos/tree/main/Project%20Documentation/3-Brainstorming%20%26%20Convergence)
